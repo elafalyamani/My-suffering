@@ -18,9 +18,9 @@
 ## لقطات الشاشة
 
 ### تنفيذ السكربت
-![Script Result](script_result.png)
+![Script Result](script_result1.png)
 ### سجل Git
-![Git Log](git_log.png)
+![Git Log](git_log2.png)
 git log --oneline
 
 ---
